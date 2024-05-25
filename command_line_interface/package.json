@@ -1,17 +1,13 @@
 {
-  "name": "command_line_interface",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "@inquirer/expand": "^2.1.8",
-    "@inquirer/password": "^2.1.8",
-    "inquirer": "^9.2.22"
-  }
+	"name": "command_line_interface",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {}
 }
