@@ -10,3 +10,5 @@ async function askPassword() {
 
     console.log(answer.password)
 }
+
+askPassword()
