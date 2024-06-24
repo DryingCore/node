@@ -21,3 +21,5 @@ async function createMainMenu() {
 async function startNewGame() {
 	const answer = await confirm({ message: "Are you sure you want to start a new game?" });
 }
+
+createMainMenu()
